@@ -1,0 +1,8 @@
+<map id="inheritance99f032ca64" name="inheritance99f032ca64">
+<area shape="rect" id="node1" href="microprobe.passes.Pass.html#microprobe.passes.Pass" target="_top" title="Class to represent a benchmak transformation pass." alt="" coords="5,104,184,129"/>
+<area shape="rect" id="node2" href="microprobe.passes.branch.BranchNextPass.html#microprobe.passes.branch.BranchNextPass" target="_top" title="BranchNextPass pass." alt="" coords="273,5,576,31"/>
+<area shape="rect" id="node3" href="microprobe.passes.branch.FixIndirectBranchPass.html#microprobe.passes.branch.FixIndirectBranchPass" target="_top" title="FixIndirectBranchPass pass." alt="" coords="255,55,594,80"/>
+<area shape="rect" id="node4" href="microprobe.passes.branch.InitializeBranchDecorator.html#microprobe.passes.branch.InitializeBranchDecorator" target="_top" title="InitializeBranchDecoratorPass pass." alt="" coords="243,104,606,129"/>
+<area shape="rect" id="node5" href="microprobe.passes.branch.LinkBbls.html#microprobe.passes.branch.LinkBbls" target="_top" title="LinkBbls pass." alt="" coords="299,153,551,179"/>
+<area shape="rect" id="node6" href="microprobe.passes.branch.NormalizeBranchTargetsPass.html#microprobe.passes.branch.NormalizeBranchTargetsPass" target="_top" title="NormalizeBranchTargetsPass pass." alt="" coords="232,203,617,228"/>
+</map>
